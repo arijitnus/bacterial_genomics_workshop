@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arijitnus/bacterial_genomics_workshop/HEAD)
 # Bacterial Genome Assembly and Annotation Workshop
 
 This Binder environment contains:
